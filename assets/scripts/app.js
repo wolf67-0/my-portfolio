@@ -5,29 +5,32 @@ const Portfolio = function() {
 				text: "rapping",
 				weight: 12.3
 			}, {
-				text: "css3",
+				text: "CSS3",
 				weight: 8
 			}, {
-				text: "javascript",
+				text: "Javascript",
 				weight: 14
 			}, {
-				text: "jquery",
+				text: "HTML5",
 				weight: 3
 			}, {
-				text: "programming",
+				text: "Programming",
 				weight: 7
 			}, {
-				text: "python",
+				text: "Python",
 				weight: 10
 			}, {
-				text: "java",
+				text: "C++",
 				weight: 9
 			}, {
-				text: "qazi",
+				text: "Cyber Security",
 				weight: 15
 			}, {
-				text: "newText",
+				text: "Music",
 				weight: 7
+			}, {
+				text: "Sketching",
+				weight: 4
 			}
 		];
 		return words;
